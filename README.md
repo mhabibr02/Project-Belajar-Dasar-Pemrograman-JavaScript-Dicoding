@@ -1,7 +1,7 @@
 # Project Belajar Dasar Pemrograman JavaScript Dicoding
 
 <p align="center">
-<img src="/Certificate/Sertifikat Belajar Dasar Pemrograman JavaScript.JPG" width="80%" height="30%">
+<img src="/Certificate/Sertifikat Belajar Dasar Pemrograman JavaScript.jpg" width="80%" height="30%">
 </p>
 
 ### Description :
