@@ -58,8 +58,8 @@ back-end development.
   <img src="/Images/23.jpeg" width="400" height="250" style="display:inline-block;">
 </p> 
 <p align="center">
-  <img src="/Images/33.jpeg" width="400" height="250" style="display:inline-block; margin-right: 10px;">
-  <img src="/Images/35.jpeg" width="400" height="250" style="display:inline-block;">
+  <img src="/Images/33.png" width="400" height="250" style="display:inline-block; margin-right: 10px;">
+  <img src="/Images/35.png" width="400" height="250" style="display:inline-block;">
 </p> 
 
 ### Remark
