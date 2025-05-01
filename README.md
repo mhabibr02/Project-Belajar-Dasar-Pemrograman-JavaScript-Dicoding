@@ -5,7 +5,7 @@
 </p>
 
 ### Description :
-This course [Belajar Backend Pemula Dengan JavaScript](https://www.dicoding.com/academies/256/) from [Dicoding](https://www.dicoding.com/) is an entry-level program designed to provide 
+This course [Belajar Dasar Pemrograman JavaScript](https://www.dicoding.com/academies/256/) from [Dicoding](https://www.dicoding.com/) is an entry-level program designed to provide 
 learners with a solid foundation in JavaScript programming. Spanning approximately 46 hours, the course covers fundamental concepts, ES6 syntax, object-oriented and functional programming 
 paradigms, asynchronous processes, and automated testing using popular frameworks. By the end of the course, students will be equipped to develop JavaScript applications using tools like 
 Node.js and Visual Studio Code.
