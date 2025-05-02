@@ -4,13 +4,13 @@
 <img src="/Certificate/Sertifikat Belajar Dasar Pemrograman JavaScript.jpg" width="80%" height="30%">
 </p>
 
-### Description :
+### Description
 This course [Belajar Dasar Pemrograman JavaScript](https://www.dicoding.com/academies/256/) from [Dicoding](https://www.dicoding.com/) is an entry-level program designed to provide 
 learners with a solid foundation in JavaScript programming. Spanning approximately 46 hours, the course covers fundamental concepts, ES6 syntax, object-oriented and functional programming 
 paradigms, asynchronous processes, and automated testing using popular frameworks. By the end of the course, students will be equipped to develop JavaScript applications using tools like 
 Node.js and Visual Studio Code.
 
-### Syllabus :
+### Syllabus
 1. Sailing the Ocean of Syntax <br>
 Introduction to JavaScript, its history, and reasons to learn it.
 2. Playing with Function <br>
@@ -30,7 +30,7 @@ Handling asynchronous operations using callbacks, promises, and async/await.
 9. Code Quality <br>
 Implementing automated testing using tools like Jest to ensure code reliability.
    
-### Result :
+### Result
 Upon completing this course, learners will be able to:
 - Comprehend and apply fundamental JavaScript concepts and ES6 features.
 - Develop applications using Object-Oriented and Functional Programming paradigms.
@@ -39,12 +39,12 @@ Upon completing this course, learners will be able to:
 - Utilize tools like Node.js and Visual Studio Code for application development.
 - Prepare for advanced courses in web development and back-end programming.​
 
-### Conclusions :
+### Conclusions
 The "Belajar Dasar Pemrograman JavaScript" course offers a comprehensive introduction to JavaScript programming, equipping learners with the necessary skills to build robust applications. 
 Through a blend of theoretical knowledge and practical exercises, students gain proficiency in modern JavaScript practices, laying a strong foundation for further exploration in web and 
 back-end development. 
 
-### Featured : 
+### Featured
 <p align="center">
   <img src="/Images/2.jpeg" width="400" height="250" style="display:inline-block; margin-right: 10px;">
   <img src="/Images/3.jpeg" width="400" height="250" style="display:inline-block;">
